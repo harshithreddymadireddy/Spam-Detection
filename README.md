@@ -32,5 +32,5 @@ To run this project locally, follow these steps:
 
 Clone the repository:
    ```bash
-   git clone https://github.com/harshith200481/Spam-Detection.git
+   git clone https://github.com/harshithreddymadireddy/Spam-Detection.git
    cd Spam-Detection
